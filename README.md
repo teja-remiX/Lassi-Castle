@@ -1,6 +1,3 @@
-# Lassi-Castle
-Welcome to **Lassi Castle**, the ultimate spot for bold flavors! Dive into our signature **crispy chicken**, seasoned for a golden, irresistible crunch. Pair it with our thick, velvety **milkshakes** for the perfect treat. Quality comfort food and royal snacks await—stop by and feast like a king!
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,11 +20,7 @@ Welcome to **Lassi Castle**, the ultimate spot for bold flavors! Dive into our s
         <div>
             <h1 class="text-xl font-black text-red-600 uppercase tracking-tighter">Lassi Castle</h1>
             <p class="text-[8px] font-bold tracking-[0.2em] text-gray-400">NAGERCOIL</p>
-        </div>![pic2 jpg](https://github.com/user-attachments/assets/6ca274d7-52af-4c8a-97c2-c35a1201d2da)
-![pic1 jpg](https://github.com/user-attachments/assets/503a365f-ed93-4b04-8abb-70e4fd206884)
-![pic5 jpg](https://github.com/user-attachments/assets/bd56ade3-d972-4fb9-b860-508f5c6222bf)
-![pic4 jpg](https://github.com/user-attachments/assets/c43e19cb-af1e-4945-b646-4f4b780d0f5d)
-
+        </div>
         <div class="flex gap-3">
             <a href="https://instagram.com/lassi_castle_" target="_blank" class="text-pink-600 text-2xl"><i class="fab fa-instagram"></i></a>
             <a href="tel:08220066771" class="bg-red-600 text-white px-4 py-2 rounded-full font-bold text-xs uppercase shadow-lg">Call</a>
@@ -54,11 +47,21 @@ Welcome to **Lassi Castle**, the ultimate spot for bold flavors! Dive into our s
     <!-- 5 Photo Gallery -->
     <section class="px-4 py-6">
         <div class="grid grid-cols-2 md:grid-cols-3 gap-2 max-w-5xl mx-auto">
-            <div data-aos="fade-up" class="col-span-2 h-48 rounded-2xl overflow-hidden"><img src="pic1.jpg" class="w-full h-full object-cover"></div>
-            <div data-aos="fade-up" data-aos-delay="100" class="h-48 rounded-2xl overflow-hidden"><img src="pic2.jpg" class="w-full h-full object-cover"></div>
-            <div data-aos="fade-up" data-aos-delay="200" class="h-48 rounded-2xl overflow-hidden"><img src="pic3.jpg" class="w-full h-full object-cover"></div>
-            <div data-aos="fade-up" data-aos-delay="300" class="h-48 rounded-2xl overflow-hidden"><img src="pic4.jpg" class="w-full h-full object-cover"></div>
-            <div data-aos="fade-up" data-aos-delay="400" class="h-48 rounded-2xl overflow-hidden"><img src="pic5.jpg" class="w-full h-full object-cover"></div>
+            <div data-aos="fade-up" class="col-span-2 h-48 rounded-2xl overflow-hidden shadow-md">
+                <img src="pic1.jpg" class="w-full h-full object-cover">
+            </div>
+            <div data-aos="fade-up" data-aos-delay="100" class="h-48 rounded-2xl overflow-hidden shadow-md">
+                <img src="pic2.jpg" class="w-full h-full object-cover">
+            </div>
+            <div data-aos="fade-up" data-aos-delay="200" class="h-48 rounded-2xl overflow-hidden shadow-md">
+                <img src="pic3.jpg" class="w-full h-full object-cover">
+            </div>
+            <div data-aos="fade-up" data-aos-delay="300" class="h-48 rounded-2xl overflow-hidden shadow-md">
+                <img src="pic4.jpg" class="w-full h-full object-cover">
+            </div>
+            <div data-aos="fade-up" data-aos-delay="400" class="h-48 rounded-2xl overflow-hidden shadow-md">
+                <img src="pic5.jpg" class="w-full h-full object-cover">
+            </div>
         </div>
     </section>
 
@@ -141,12 +144,12 @@ Welcome to **Lassi Castle**, the ultimate spot for bold flavors! Dive into our s
     <!-- Footer -->
     <footer class="bg-gray-900 text-white py-12 px-6 text-center mt-12">
         <div class="flex justify-center gap-8 mb-8 text-3xl">
-            <a href="https://instagram.com/lassi_castle_" target="_blank" class="text-pink-600"><i class="fab fa-instagram"></i></a>
-            <a href="https://wa.me/918220066771" class="text-green-500"><i class="fab fa-whatsapp"></i></a>
-            <a href="tel:08220066771" class="text-red-500"><i class="fa-solid fa-phone"></i></a>
+            <a href="https://instagram.com/lassi_castle_" target="_blank" class="text-pink-600 hover:scale-110 transition-transform"><i class="fab fa-instagram"></i></a>
+            <a href="https://wa.me/918220066771" class="text-green-500 hover:scale-110 transition-transform"><i class="fab fa-whatsapp"></i></a>
+            <a href="tel:08220066771" class="text-red-500 hover:scale-110 transition-transform"><i class="fa-solid fa-phone"></i></a>
         </div>
-        <p class="text-xs text-gray-500">Mission Complex, 155Z/1, St Antony St, Kurusady, Nagercoil</p>
-        <p class="mt-8 text-[10px] text-gray-700 tracking-widest">DESIGNED BY [THARUN TEJA (teja___unofficial)]</p>
+        <p class="text-xs text-gray-500 font-medium">Mission Complex, 155Z/1, St Antony St, Kurusady, Nagercoil</p>
+        <p class="mt-8 text-[10px] text-gray-600 tracking-[0.3em] uppercase">DESIGNED BY THARUN TEJA (teja___unofficial)</p>
     </footer>
 
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
