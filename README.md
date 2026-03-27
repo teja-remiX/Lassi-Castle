@@ -3,14 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lassi Castle Nagercoil | Official Menu</title>
+    
+    <!-- SEO / GOOGLE SEARCH OPTIMIZATION -->
+    <title>Lassi Castle Nagercoil | Best Hangout Spot in Nagercoil & Konam</title>
+    <meta name="description" content="Lassi Castle Nagercoil - The best place for Broasted Chicken, Milkshakes, and Sundaes near Konam and Kurusady. Your favorite hangout spot in Nagercoil.">
+    <meta name="keywords" content="Lassi Castle Nagercoil, best hangout spot Nagercoil, Broasted chicken Nagercoil, chill places Nagercoil, Konam cafes, Kurusady snacks, Lassi Castle menu">
+    
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
     <style>
         .glass { background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); }
         .menu-item { border-bottom: 1px solid #f3f4f6; padding-bottom: 1rem; margin-bottom: 1rem; }
         .category-header { position: sticky; top: 70px; z-index: 40; background: white; padding: 10px 0; border-bottom: 2px solid #ef4444; }
+        /* Smooth scrolling for SEO links */
+        html { scroll-behavior: smooth; }
     </style>
 </head>
 <body class="bg-gray-50 text-gray-900 font-sans">
@@ -120,8 +128,16 @@
 
     </section>
 
-<!-- Footer -->
-    <footer class="bg-gray-900 text-white py-12 px-6 text-center mt-12">
+    <!-- SEO KEYWORD SECTION (Invisible to users mostly, visible to Google) -->
+    <section class="max-w-3xl mx-auto px-6 py-10 border-t border-gray-100 text-center">
+        <h4 class="text-sm font-bold text-gray-300 uppercase tracking-widest mb-2">Visit the Best Hangout Spot in Nagercoil</h4>
+        <p class="text-gray-400 text-xs leading-relaxed">
+            Looking for a <strong>chill place in Nagercoil</strong> or <strong>Konam</strong>? <strong>Lassi Castle Nagercoil</strong> is the ultimate destination for friends and family. Located at Mission Complex, Kurusady, we serve the best <strong>Broasted Chicken</strong>, royal milkshakes, and premium sundaes in town.
+        </p>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12 px-6 text-center">
         <div class="flex justify-center gap-8 mb-8 text-3xl">
             <a href="https://instagram.com/lassi_castle_" target="_blank" class="text-pink-600 hover:scale-110 transition-transform"><i class="fab fa-instagram"></i></a>
             <a href="https://wa.me/918220066771" class="text-green-500 hover:scale-110 transition-transform"><i class="fab fa-whatsapp"></i></a>
