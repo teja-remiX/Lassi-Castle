@@ -43,28 +43,6 @@
             </a>
         </div>
     </section>
-
-    <!-- 5 Photo Gallery -->
-    <section class="px-4 py-6">
-        <div class="grid grid-cols-2 md:grid-cols-3 gap-2 max-w-5xl mx-auto">
-            <div data-aos="fade-up" class="col-span-2 h-48 rounded-2xl overflow-hidden shadow-md">
-                <img src="pic1.jpg" class="w-full h-full object-cover">
-            </div>
-            <div data-aos="fade-up" data-aos-delay="100" class="h-48 rounded-2xl overflow-hidden shadow-md">
-                <img src="pic2.jpg" class="w-full h-full object-cover">
-            </div>
-            <div data-aos="fade-up" data-aos-delay="200" class="h-48 rounded-2xl overflow-hidden shadow-md">
-                <img src="pic3.jpg" class="w-full h-full object-cover">
-            </div>
-            <div data-aos="fade-up" data-aos-delay="300" class="h-48 rounded-2xl overflow-hidden shadow-md">
-                <img src="pic4.jpg" class="w-full h-full object-cover">
-            </div>
-            <div data-aos="fade-up" data-aos-delay="400" class="h-48 rounded-2xl overflow-hidden shadow-md">
-                <img src="pic5.jpg" class="w-full h-full object-cover">
-            </div>
-        </div>
-    </section>
-
     <!-- MENU LISTING -->
     <section class="max-w-3xl mx-auto px-6 py-12">
         
