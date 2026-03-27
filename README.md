@@ -128,15 +128,15 @@
             <a href="tel:08220066771" class="text-red-500 hover:scale-110 transition-transform"><i class="fa-solid fa-phone"></i></a>
         </div>
         
-        <p class="text-xs text-gray-500 font-medium">Mission Complex, 155Z/1, St Antony St, Kurusady, Nagercoil</p>
+        <p class="text-xs text-gray-500 font-medium italic">Mission Complex, 155Z/1, St Antony St, Kurusady, Nagercoil</p>
         
-        <!-- Designer Section -->
+        <!-- Highlighted Designer Section -->
         <div class="mt-10 flex flex-col items-center gap-2">
-            <a href="https://instagram.com/teja___unofficial" target="_blank" class="group flex items-center gap-2 text-gray-600 hover:text-pink-500 transition-all duration-300">
-                <i class="fab fa-instagram text-sm"></i>
-                <span class="text-[9px] font-bold tracking-[0.2em] uppercase">@teja___unofficial</span>
+            <a href="https://instagram.com/teja___unofficial" target="_blank" class="group flex items-center gap-2 bg-pink-600/10 border border-pink-500/30 px-4 py-1.5 rounded-full transition-all duration-300 hover:bg-pink-600 hover:border-pink-600">
+                <i class="fab fa-instagram text-pink-500 group-hover:text-white text-sm"></i>
+                <span class="text-sm font-medium lowercase text-pink-400 group-hover:text-white">teja___unofficial</span>
             </a>
-            <p class="text-[10px] text-gray-700 tracking-[0.3em] uppercase opacity-50">DESIGNED BY THARUN TEJA</p>
+            <p class="text-[9px] text-gray-600 tracking-[0.4em] uppercase mt-1">DESIGNED BY THARUN TEJA</p>
         </div>
     </footer>
 
